@@ -81,7 +81,7 @@ class face_regognition:
 
 
 fr = face_regognition()
-fr.classify_face(f"2137.jpeg")
+fr.classify_face(f"test_case.jpeg")
 
 
 
